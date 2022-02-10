@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-10T05:29:42.639931Z",
+      "created": "2022-02-10T05:57:41.511493Z",
       "format": null,
-      "last_modified": "2022-02-10T05:28:42.407034Z",
+      "last_modified": "2022-02-10T05:56:30.678962Z",
       "mimetype": null,
       "name": "Euler\u2019s Totient Theorem.ipynb",
       "path": "Euler\u2019s Totient Theorem.ipynb",
@@ -14,21 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-02-10T05:29:42.643931Z",
+      "created": "2022-02-10T05:57:41.511493Z",
       "format": null,
-      "last_modified": "2022-02-10T05:28:42.407034Z",
+      "last_modified": "2022-02-10T05:56:30.678962Z",
       "mimetype": null,
       "name": "Longest-increasing-subsequence.ipynb",
       "path": "Longest-increasing-subsequence.ipynb",
-      "size": 8195,
+      "size": 9950,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-02-10T05:29:42.643931Z",
+      "created": "2022-02-10T05:57:41.515494Z",
       "format": null,
-      "last_modified": "2022-02-10T05:29:41.391913Z",
+      "last_modified": "2022-02-10T05:57:39.831382Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-10T05:29:42.643931Z",
+  "created": "2022-02-10T05:57:41.515494Z",
   "format": "json",
-  "last_modified": "2022-02-10T05:29:42.643931Z",
+  "last_modified": "2022-02-10T05:57:41.515494Z",
   "mimetype": null,
   "name": "",
   "path": "",
